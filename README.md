@@ -23,3 +23,4 @@ The cleaning done on the data are Change Type, Promoted Headers, Unpivoted other
 United State have the highest Prevalence (Confirmed cases) of COVID19 with 5,808,387,632 while North Korea have the Lowest Prevalence (Confirmed cases) of COVID19 with just 32 reported Cases
 The month of May have the highest Prevalence (Confirmed cases) with the Grand Total of 21,377,054,364 from 2020 to 2021 and the month of may have the lowest Prevalence (Confirmed cases) with the Grand Total of 6,327,719,307 from 2020 to 2021
 In 2022, June to Dec no cases were confirmed and since the year that have the highest confirmed cases.
+The Prevalence cases of Covid19 confirmed increases every month in each year 
